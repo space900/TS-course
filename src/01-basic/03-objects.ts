@@ -23,3 +23,5 @@ const car2: Car = {
 }
 
 car2['go'] = true;
+
+export {}
