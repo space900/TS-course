@@ -28,3 +28,5 @@ function printName(user: {
 
 printName({ firstName: 'Andrey'})
 printName({ firstName: 'Andrey', lastName: 'space900'})
+
+export {}

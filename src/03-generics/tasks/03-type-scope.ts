@@ -8,7 +8,6 @@ export function createMap<T>(list: T[]) {
         }
         return result;
     }
-
 }
 
 const mapNums = createMap([1, 2, 3])

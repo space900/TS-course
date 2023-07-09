@@ -41,3 +41,5 @@ interface Developer extends Employee{
 }
 
 // class MyDeveloper implements Developer {}
+
+export {}
