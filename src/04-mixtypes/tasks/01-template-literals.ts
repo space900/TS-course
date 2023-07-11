@@ -5,6 +5,8 @@ export {}
 type Style = 'none' | 'dotted' | 'dashed' | 'solid'
 type Color = 'Red' | 'Green' | 'Blue' | 'Black' | 'White'
 
+
+// Capitalize, Uncapitalize, Uppercase, Lowercase
 // border-style: solid
 type BorderStyle = `${Style} ${Uncapitalize<Color>}`
 
